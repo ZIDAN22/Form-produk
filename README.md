@@ -1,4 +1,4 @@
-# Katalog Produk PHP
+# Hello Gadget
 
 Proyek sederhana untuk menampilkan katalog produk menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk melihat daftar produk, memfilter berdasarkan kategori, dan menampilkan informasi produk seperti nama, harga, gambar, dan kategori.
 
